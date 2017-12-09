@@ -3,7 +3,7 @@ MongoDB-Java Blog
 
 ## Prerrequisitos
 
-Para compilar la aplicaciÃ³n Blog de MongoDB-Java, necesita tener:
+Para compilar la aplicación Blog de MongoDB-Java, necesita tener:
 
 - [JDK 1.7](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) (no se recomienda el JDK 1.9 y 1.8)
 - [Maven](https://maven.apache.org/)
